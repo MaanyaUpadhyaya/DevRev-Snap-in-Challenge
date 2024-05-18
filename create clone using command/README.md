@@ -1,16 +1,21 @@
 **1. First step is the installation of devrev CLI**
 
+Done using the Home Brew method
+
 **2. Then we installed jq**
       
 **Install devrev/typescript-sdk**
+
     npm install @devrev/typescript-sdk
 
-****Creation of JS files ****
+**Creation of JS files**
+
     npm install
     npm run build 
     npm run package
 
 **Once all of this is done you cand install the snapIn by**
+
     1.authenticate your id and org
         devrev profiles authenticate --org <devorg name> --usr <user email>
 
