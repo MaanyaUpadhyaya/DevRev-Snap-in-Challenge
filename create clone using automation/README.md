@@ -3,9 +3,11 @@
 **2. Then we installed jq**
       
 **Install devrev/typescript-sdk**
+
     npm install @devrev/typescript-sdk
 
 **Creation of Js files**
+
     npm install
     npm run build 
     npm run package
