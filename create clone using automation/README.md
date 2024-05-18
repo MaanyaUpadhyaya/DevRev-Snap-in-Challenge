@@ -1,6 +1,6 @@
-**First we install devrev cli**
+**1. First we install devrev CLI**
 
-**Then we installed jq**
+**2. Then we installed jq**
       
 **Install devrev/typescript-sdk**
     npm install @devrev/typescript-sdk
@@ -27,7 +27,5 @@
 
     5.Then you can install the SnapIn in your account snapIN section
 
-
-**BUT THE MAJOR PROBLEM IS THE CODE SEEMS TO BE FINE BUT I THE WORK ITEM IS KEPT ON CLONING AFTER EVERY 5 to 10 sec**
 
  

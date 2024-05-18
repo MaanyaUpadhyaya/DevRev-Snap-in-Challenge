@@ -1,11 +1,11 @@
 **This code create a work item issue.**
 
 
-**To create an issue we have to first create a product:**
+**To create an issue we have to first create a product. The follwing code snippet helps in dong that:**
 def create_product(api_key, url, owned_by):
     data = {
         "type": "product",
-        "name": "ankith",
+        "name": "Maanya",
         "owned_by": [owned_by],
     }
 
@@ -28,7 +28,7 @@ def create_product(api_key, url, owned_by):
         return None
 
 
-**Then the we define capabilities of the product:**
+**The next Step is to define capabilities of the product:**
 def create_parts(api_key, url, owned_by, product_id):
     data = {
         "type": "capability",

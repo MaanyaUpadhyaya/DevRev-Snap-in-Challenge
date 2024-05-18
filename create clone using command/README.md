@@ -1,11 +1,11 @@
-**First we install devrev cli**
+**1. First step is the installation of devrev CLI**
 
-**Then we installed jq**
+**2. Then we installed jq**
       
 **Install devrev/typescript-sdk**
     npm install @devrev/typescript-sdk
 
-****create js files ****
+****Creation of JS files ****
     npm install
     npm run build 
     npm run package
@@ -26,8 +26,5 @@
 
 
     5.Then you can install the SnapIn in your account snapIN section
-
-
-**BUT THE MAJOR PROBLEM IS THE CODE SEEMS TO BE FINE BUT I AM  GETTING SOMETHING WENT WRONG MESSAGE WHILE I AM RUNNING THE SNAP IN**
 
  
