@@ -5,12 +5,13 @@
 **Install devrev/typescript-sdk**
     npm install @devrev/typescript-sdk
 
-****create js files ****
+**Creation of Js files**
     npm install
     npm run build 
     npm run package
 
 **Once all of this is done you cand install the snapIn by**
+
     1.authenticate your id and org
         devrev profiles authenticate --org <devorg name> --usr <user email>
 
